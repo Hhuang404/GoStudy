@@ -19,7 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ch1 变量/datatype.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ch1 变量/数据类型.go" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1aQRO8qzo72CkB8bNvUK9K0O0QJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +37,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build datatype.go">
+  <component name="RunManager" selected="Go Build.go build 数据类型.go">
+    <configuration name="go build 数据类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/数据类型.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build datatype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStarter" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -54,18 +62,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build stringtype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStarter" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build var1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GoStarter" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch1 变量/var1.go" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/stringtype.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 数据类型.go" />
+        <item itemvalue="Go Build.go build stringtype.go" />
         <item itemvalue="Go Build.go build datatype.go" />
         <item itemvalue="Go Build.go build iota.go" />
         <item itemvalue="Go Build.go build var2.go" />
-        <item itemvalue="Go Build.go build var1.go" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -99,25 +100,29 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
-    <state width="981" height="208" key="GridCell.Tab.0.bottom" timestamp="1587126461913">
+    <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587129371100">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="981" height="208" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
-    <state width="981" height="208" key="GridCell.Tab.0.center" timestamp="1587126461913">
+    <state width="982" height="206" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587129371100" />
+    <state width="982" height="206" key="GridCell.Tab.0.center" timestamp="1587129371100">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="981" height="208" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
-    <state width="981" height="208" key="GridCell.Tab.0.left" timestamp="1587126461913">
+    <state width="982" height="206" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587129371100" />
+    <state width="982" height="206" key="GridCell.Tab.0.left" timestamp="1587129371100">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="981" height="208" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
-    <state width="981" height="208" key="GridCell.Tab.0.right" timestamp="1587126461913">
+    <state width="982" height="206" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587129371100" />
+    <state width="982" height="206" key="GridCell.Tab.0.right" timestamp="1587129371100">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="981" height="208" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
+    <state width="982" height="206" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587129371100" />
     <state x="518" y="266" key="SettingsEditor" timestamp="1587124048454">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587129379770">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129379770" />
   </component>
 </project>
