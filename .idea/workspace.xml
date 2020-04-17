@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4333c3f-f75e-4dc9-89dd-c8b1fe3b754e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch1 变量/操作运算符.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1 基础/[7]关系运算符.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/iota关键字.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[4]iota关键字.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/变量.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[1]变量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/字符串类型.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[3]字符串类型.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/操作运算符.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[6]操作运算符.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/数据类型.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[2]数据类型.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1 基础/格式转换.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 基础/[5]格式转换.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ch1 变量/数据类型.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ch1 基础/[2]数据类型.go" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1aQRO8qzo72CkB8bNvUK9K0O0QJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -98,9 +104,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rename" />
     <MESSAGE value="add type convert" />
-    <option name="LAST_COMMIT_MESSAGE" value="add type convert" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="191" key="#go_build_helloword.go" timestamp="1586665845012">
@@ -111,10 +117,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
-    <state x="1046" y="300" key="CommitChangelistDialog2" timestamp="1587130396256">
+    <state x="1046" y="300" key="CommitChangelistDialog2" timestamp="1587130902178">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1046" y="300" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130396256" />
+    <state x="1046" y="300" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130902178" />
     <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587130856770">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -135,9 +141,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587130397785">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587130904123">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130397785" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130904123" />
   </component>
 </project>
