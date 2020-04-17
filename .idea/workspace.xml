@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4333c3f-f75e-4dc9-89dd-c8b1fe3b754e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch1 变量/操作运算符.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1 变量/格式转换.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1 变量/格式转换.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,9 @@
     <setting file="file://$PROJECT_DIR$/ch1 变量/数据类型.go" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1aQRO8qzo72CkB8bNvUK9K0O0QJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 格式转换.go">
+  <component name="RunManager" selected="Go Build.go build 操作运算符.go">
     <configuration name="go build 数据类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStarter" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -58,19 +60,19 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 操作运算符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/操作运算符.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build datatype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStarter" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/ch1 变量/datatype.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build iota.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GoStarter" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch1 变量/iota.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 操作运算符.go" />
         <item itemvalue="Go Build.go build 格式转换.go" />
         <item itemvalue="Go Build.go build 数据类型.go" />
         <item itemvalue="Go Build.go build stringtype.go" />
         <item itemvalue="Go Build.go build datatype.go" />
-        <item itemvalue="Go Build.go build iota.go" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="add type convert" />
+    <option name="LAST_COMMIT_MESSAGE" value="add type convert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="191" key="#go_build_helloword.go" timestamp="1586665845012">
@@ -108,33 +111,33 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
-    <state x="1093" y="150" key="CommitChangelistDialog2" timestamp="1587129811185">
+    <state x="1046" y="300" key="CommitChangelistDialog2" timestamp="1587130396256">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1093" y="150" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129811185" />
-    <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587130258007">
+    <state x="1046" y="300" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130396256" />
+    <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587130856770">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587130258007" />
-    <state width="982" height="206" key="GridCell.Tab.0.center" timestamp="1587130258006">
+    <state width="982" height="206" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
+    <state width="982" height="206" key="GridCell.Tab.0.center" timestamp="1587130856770">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587130258006" />
-    <state width="982" height="206" key="GridCell.Tab.0.left" timestamp="1587130258006">
+    <state width="982" height="206" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
+    <state width="982" height="206" key="GridCell.Tab.0.left" timestamp="1587130856770">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587130258006" />
-    <state width="982" height="206" key="GridCell.Tab.0.right" timestamp="1587130258007">
+    <state width="982" height="206" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
+    <state width="982" height="206" key="GridCell.Tab.0.right" timestamp="1587130856770">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587130258007" />
+    <state width="982" height="206" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
     <state x="518" y="266" key="SettingsEditor" timestamp="1587124048454">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587129826424">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587130397785">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129826424" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130397785" />
   </component>
 </project>
