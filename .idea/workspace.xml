@@ -30,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -91,6 +92,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="733" y="191" key="#go_build_helloword.go" timestamp="1586665845012">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -100,6 +105,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
+    <state x="1093" y="150" key="CommitChangelistDialog2" timestamp="1587129385998">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1093" y="150" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129385998" />
     <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587129371100">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -120,9 +129,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587129379770">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587129797327">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129379770" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587129797327" />
   </component>
 </project>
