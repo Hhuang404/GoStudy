@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4333c3f-f75e-4dc9-89dd-c8b1fe3b754e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/GOEnvironment" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ch1 变量/datatype.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1aQRO8qzo72CkB8bNvUK9K0O0QJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build datatype.go">
+    <configuration name="go build datatype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/datatype.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build iota.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/iota.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build var1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/var1.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build var2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 变量/var2.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build datatype.go" />
+        <item itemvalue="Go Build.go build iota.go" />
+        <item itemvalue="Go Build.go build var2.go" />
+        <item itemvalue="Go Build.go build var1.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="191" key="#go_build_helloword.go" timestamp="1586665845012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="733" y="191" key="#go_build_helloword.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586665845012" />
+    <state x="733" y="191" key="#go_build_main.go" timestamp="1586666278744">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
+    <state width="981" height="208" key="GridCell.Tab.0.bottom" timestamp="1587126461913">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
+    <state width="981" height="208" key="GridCell.Tab.0.center" timestamp="1587126461913">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
+    <state width="981" height="208" key="GridCell.Tab.0.left" timestamp="1587126461913">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
+    <state width="981" height="208" key="GridCell.Tab.0.right" timestamp="1587126461913">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587126461913" />
+    <state x="518" y="266" key="SettingsEditor" timestamp="1587124048454">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
+  </component>
+</project>
