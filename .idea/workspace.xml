@@ -49,12 +49,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 操作运算符.go">
-    <configuration name="go build 数据类型.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 1 变量.go">
+    <configuration name="go build 1 变量.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStarter" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch1 变量/数据类型.go" />
+      <filePath value="$PROJECT_DIR$/ch1 基础/1 变量.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1变量.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 基础/1变量.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build [1]变量.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStarter" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch1 基础/[1]变量.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -74,29 +90,13 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build datatype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GoStarter" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch1 变量/datatype.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build stringtype.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GoStarter" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ch1 变量/stringtype.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 1 变量.go" />
+        <item itemvalue="Go Build.go build 1变量.go" />
+        <item itemvalue="Go Build.go build [1]变量.go" />
         <item itemvalue="Go Build.go build 操作运算符.go" />
         <item itemvalue="Go Build.go build 格式转换.go" />
-        <item itemvalue="Go Build.go build 数据类型.go" />
-        <item itemvalue="Go Build.go build stringtype.go" />
-        <item itemvalue="Go Build.go build datatype.go" />
       </list>
     </recent_temporary>
   </component>
@@ -117,33 +117,33 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="733" y="191" key="#go_build_main.go/0.0.2048.1112@0.0.2048.1112" timestamp="1586666278744" />
-    <state x="1046" y="300" key="CommitChangelistDialog2" timestamp="1587130902178">
+    <state x="1046" y="300" key="CommitChangelistDialog2" timestamp="1587131093187">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1046" y="300" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130902178" />
-    <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587130856770">
+    <state x="1046" y="300" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1587131093187" />
+    <state width="982" height="206" key="GridCell.Tab.0.bottom" timestamp="1587131158176">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
-    <state width="982" height="206" key="GridCell.Tab.0.center" timestamp="1587130856770">
+    <state width="982" height="206" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587131158176" />
+    <state width="982" height="206" key="GridCell.Tab.0.center" timestamp="1587131158176">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
-    <state width="982" height="206" key="GridCell.Tab.0.left" timestamp="1587130856770">
+    <state width="982" height="206" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587131158176" />
+    <state width="982" height="206" key="GridCell.Tab.0.left" timestamp="1587131158176">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
-    <state width="982" height="206" key="GridCell.Tab.0.right" timestamp="1587130856770">
+    <state width="982" height="206" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587131158176" />
+    <state width="982" height="206" key="GridCell.Tab.0.right" timestamp="1587131158176">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="982" height="206" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587130856770" />
+    <state width="982" height="206" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587131158176" />
     <state x="518" y="266" key="SettingsEditor" timestamp="1587124048454">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="518" y="266" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587124048454" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587130904123">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1587131094970">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587130904123" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1587131094970" />
   </component>
 </project>
